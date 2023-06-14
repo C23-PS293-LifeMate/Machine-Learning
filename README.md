@@ -45,6 +45,7 @@ our dataset source from here:
 - sklearn
 - matplotlib
 - scipy
+- plotly
 
 # Contact Us
 Bangkit 2023 Batch 1 Product Capstone Team: **C23-PS293**
